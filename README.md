@@ -1,6 +1,6 @@
 
 
-![png (5)](https://github.com/user-attachments/assets/7ecd786f-8557-4b6e-ae35-48263f7481d6)
+
 
 <div align="center">
 # 🎮 Jeu de Dames avec IA
