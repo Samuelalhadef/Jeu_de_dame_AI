@@ -1,9 +1,10 @@
 
 
+![png (5)](https://github.com/user-attachments/assets/7ecd786f-8557-4b6e-ae35-48263f7481d6)
 
 <div align="center">
 # 🎮 Jeu de Dames avec IA
-![Head](https://github.com/user-attachments/assets/2609463b-80c0-4528-a822-580e86876111)
+![Head](https://github.com/user-attachments/assets/7ecd786f-8557-4b6e-ae35-48263f7481d6)
 Un jeu de dames intelligent développé en Python, combinant apprentissage par renforcement et algorithme Minimax pour une expérience de jeu stimulante.
 [Démonstration en vidéo](votre-url)
 </div>
